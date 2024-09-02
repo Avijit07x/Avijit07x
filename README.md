@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, How are you? 👋
+Hey there! 👋 I’m Avijit Dey, a passionate web developer with a knack for crafting dynamic and responsive web experiences. Whether it’s bringing a design to life with clean HTML, CSS, and Tailwind, or diving deep into JavaScript frameworks like React and Next.js, I love turning ideas into reality on the web. I’m always excited to explore new technologies and enhance my skills. Let’s connect and build something amazing together!
 
 
 ## 🌐 Socials:
