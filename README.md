@@ -1,6 +1,6 @@
 ### Hey there 👋 
 
-I am [Avijit Dey](https://avijit07x.vercel.app), a Full Stack Developer based in India.
+I am [Avijit Dey](https://avijit07x.dev), an SDE-1 based in India..
 
 I specialize in building scalable, user focused web applications and delivering polished digital experiences. When I get an idea, I prototype fast, iterate and ship.
 
@@ -8,7 +8,7 @@ My core tech stack includes React, TypeScript, Tailwind CSS, Node.js, Express, a
 
 ### Favorite Project
 
-My favorite project is [AnimateIcons](https://animateicons.vercel.app). a React animated icon library built for modern applications. It enables developers to easily integrate smooth and expressive icon animations into their UI.
+My favorite project is [AnimateIcons](https://animateicons.in). a React animated icon library built for modern applications. It enables developers to easily integrate smooth and expressive icon animations into their UI.
 
 I have completed multiple freelance projects with high client satisfaction. I continuously work on open source and personal ideas to sharpen my engineering craft.
 
