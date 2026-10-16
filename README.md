@@ -1,6 +1,6 @@
 ### Hey there 👋 
 
-I am [Avijit Dey](https://avijit07x.dev), an SDE-1 based in India..
+I am [Avijit Dey](https://avijit07x.dev), an Frontend Engineer based in India.
 
 I specialize in building scalable, user focused web applications and delivering polished digital experiences. When I get an idea, I prototype fast, iterate and ship.
 
